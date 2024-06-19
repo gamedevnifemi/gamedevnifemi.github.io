@@ -37,7 +37,7 @@ jobs:
               run: gem install kramdown
 
             - name: Convert README.md to index.html
-              run: kramdown profile/README.md > index.html
+              run: kramdown README.md > index.html
             
             # This enables Pages and extracts metadata about the site
             - name: Setup Pages
