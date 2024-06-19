@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 🤖 The Next Generation of AI (AGI?)
 
 ## WHAT?
