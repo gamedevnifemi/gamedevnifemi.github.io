@@ -28,13 +28,13 @@ jobs:
             - name: Checkout repository
               uses: actions/checkout@v4
 
-            - name: Set up Ruby
-              uses: ruby/setup-ruby@v1
-              with:
-                  ruby-version: '3.3'
+            # - name: Set up Ruby
+            #   uses: ruby/setup-ruby@v1
+            #   with:
+            #       ruby-version: '3.3'
 
-            - name: Install kramdown
-              run: gem install kramdown
+            # - name: Install kramdown
+            #   run: gem install kramdown
 
             # - name: Convert README.md to index.html
             #   run: kramdown profile/README.md > index.html
