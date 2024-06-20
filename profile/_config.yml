@@ -21,7 +21,7 @@
 title: [Atradu]
 email: your-email@example.com
 # description: >- # this means to ignore newlines until "baseurl:"
-#   This means that Atradu is up and running with the proper jekyll theme.
+#   The Next Generation of AI (AGI?)
 description: [This means that Atradu is up and running with the proper jekyll theme.]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nifemi.atradu.info/" # the base hostname & protocol for your site, e.g. http://example.com
