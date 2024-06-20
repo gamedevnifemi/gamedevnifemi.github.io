@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Atradu
-# email: your-email@example.com
+title: [Atradu]
+email: your-email@example.com
 # description: >- # this means to ignore newlines until "baseurl:"
-#   The Next Generation of AI (AGI?)
 description: [The Next Generation of AI]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nifemi.atradu.info/" # the base hostname & protocol for your site, e.g. http://example.com
