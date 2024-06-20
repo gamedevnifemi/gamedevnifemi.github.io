@@ -1,4 +1,4 @@
-## 🤖 The Next Generation of AI (AGI?)
+# 🤖 The Next Generation of AI (AGI?)
 
 ## WHAT?
 
