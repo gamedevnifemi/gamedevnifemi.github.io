@@ -47,8 +47,8 @@ jobs:
             # This produces Jekyll build artifacts and build with jekyll
             - name: Build with Jekyll
               uses: actions/jekyll-build-pages@v1
-              # with:
-              #   source: ./profile
+              with:
+                source: ./profile
               #   destination: ./_site 
 
             - name: Upload artifact
